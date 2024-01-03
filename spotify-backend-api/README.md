@@ -7,6 +7,7 @@ To install the project, follow these steps:
    ```sh
    npm install
    ```
+3. Input your client_id and clinet secret in .env file
 
 ## Usage
 
