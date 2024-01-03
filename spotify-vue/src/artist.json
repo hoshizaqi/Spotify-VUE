@@ -1,0 +1,57 @@
+{
+  "name": "Heavy Rotation",
+  "albumCover": "/images/albumCovers/cover.jpg",
+  "releaseYear": "2014",
+  "tracks": [
+    {
+      "id": 1,
+      "name": "Heavy Rotation",
+      "path": "/songs/01 Heavy Rotation.m4a"
+    },
+    {
+      "id": 2,
+      "name": "Kimi No Koto Ga Suki Dakara",
+      "path": "/songs/02 Kimi No Koto Ga Suki Dakara.m4a"
+    },
+    {
+      "id": 3,
+      "name": "Ponytail To Chou-Chou",
+      "path": "/songs/03 Ponytail To Chou-Chou.m4a"
+    },
+    {
+      "id": 4,
+      "name": "Baby!Baby!Baby!",
+      "path": "/songs/04 Baby!Baby!Baby!.m4a"
+    },
+    {
+      "id": 5,
+      "name": "Shonichi (Hari Pertama)",
+      "path": "/songs/05 Shonichi (Hari Pertama).m4a"
+    },
+    {
+      "id": 6,
+      "name": "Washoi J!",
+      "path": "/songs/06 Washoi J!.m4a"
+    },
+    {
+      "id": 7,
+      "name": "Oogoe Diamond (Teriakan Diamond)",
+      "path": "/songs/07 Oogoe Diamond (Teriakan Diamond).m4a"
+    },
+    {
+      "id": 8,
+      "name": "Gomenne, Summer (Maafkan, Summer)",
+      "path": "/songs/08 Gomenne, Summer (Maafkan, Summer).m4a"
+    },
+    {
+      "id": 9,
+      "name": "Namida Surprise! (Air Mata Surprise)",
+      "path": "/songs/09 Namida Surprise! (Air Mata Surprise).m4a"
+    },
+    {
+      "id": 10,
+      "name": "Hikoukigumo (Jejak Awan Pesawat)",
+      "path": "/songs/10 Hikoukigumo (Jejak Awan Pesawat).m4a"
+    }
+  ]
+}
